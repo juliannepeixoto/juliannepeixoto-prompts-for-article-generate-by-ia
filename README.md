@@ -29,6 +29,6 @@ Mantenha o tom e ritmo, mas reescreva as palavras em {ROTEIRO} para que seja dif
 Não use analogias. Use linguagem informal.
 
 Lexica.art: 
-Imagem de uma mulher programando de maneira serena. estilo de desenho.
+Imagem de uma mulher programando de maneira serena. Estilo de desenho.
 
 Artigo técnico gerado: https://dio.me/articles/desbravando-o-mundo-da-programacao-sua-primeira-licao-com-python 
